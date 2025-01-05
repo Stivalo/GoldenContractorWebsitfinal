@@ -70484,7 +70484,7 @@ c=d?B.iu:B.J
 b=A.bz("whatsapp.png",a5,d?A.ab(b2,B.q,a8).w.a.a*0.08:A.ab(b2,B.q,a8).w.a.a*0.015)
 a=A.bo(a5,a5,A.ab(b2,B.q,a8).w.a.a*0.01)
 d=$.bj?A.ab(b2,B.q,a8).w.a.a*0.6:A.ab(b2,B.q,a8).w.a.a*0.1
-i=A.fl(!1,!0,A.e8(a5,A.e0(A.a([b,a,A.bo(A.dO("\u062a\u0648\u0627\u0635\u0644 \u0639\u0628\u0631 \u0627\u0644\u0648\u0627\u062a\u0633\u0623\u0628",B.bk,A.dR(B.k,a5,$.bj?$.Y().dB(16):$.Y().dB(18)),a5,a5),a5,d)],k),B.D,c,B.Z),B.t,a5,a5,new A.e7(B.i,a5,a5,e,a5,a5,B.aO),a5,a5,a5,new A.aI(f,f,f,f),a5,a5,i),a5,!0,a5,a5,a5,a5,a5,a5,a5,a5,a5,new A.aaH(),a5,a5,a5,a5)
+i=A.fl(!1,!0,A.e8(a5,A.e0(A.a([b,a,A.bo(A.dO("\u062a\u0648\u0627\u0635\u0644 \u0639\u0646 \u0637\u0631\u064a\u0642 \u0627\u0644\u0648\u0627\u062a\u0633 \u0623\u0628",B.bk,A.dR(B.k,a5,$.bj?$.Y().dB(16):$.Y().dB(18)),a5,a5),a5,d)],k),B.D,c,B.Z),B.t,a5,a5,new A.e7(B.i,a5,a5,e,a5,a5,B.aO),a5,a5,a5,new A.aI(f,f,f,f),a5,a5,i),a5,!0,a5,a5,a5,a5,a5,a5,a5,a5,a5,new A.aaH(),a5,a5,a5,a5)
 f=A.bo(a5,A.ab(b2,B.q,a8).w.a.b*0.01,a5)
 e=10*$.Y().gam()
 d=$.bj?A.ab(b2,B.q,a8).w.a.a*0.8:A.ab(b2,B.q,a8).w.a.a*0.2
@@ -70729,7 +70729,7 @@ A.Ub.prototype={
 $0(){var s=0,r=A.Q(t.H),q=this,p
 var $async$$0=A.R(function(a,b){if(a===1)return A.N(b,r)
 while(true)switch(s){case 0:p=q.a.c
-s=p==="\u062a\u0648\u0627\u0635\u0644 \u0639\u0628\u0631 \u0627\u0644\u0648\u0627\u062a\u0633 \u0623\u0628"?2:4
+s=p==="\u062a\u0648\u0627\u0635\u0644 \u0639\u0646 \u0637\u0631\u064a\u0642 \u0627\u0644\u0648\u0627\u062a\u0633 \u0623\u0628"?2:4
 break
 case 2:s=5
 return A.X(A.fK(A.d3("https://wa.me/+966557200926/",0,null)),$async$$0)
